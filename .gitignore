@@ -1,0 +1,12 @@
+/bin
+/develop-eggs
+/eggs
+/include
+/lib
+/parts
+/src
+*.egg-info
+/.installed.cfg
+/.mr.developer.cfg
+/.Python
+/*.json
